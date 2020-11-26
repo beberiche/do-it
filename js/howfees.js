@@ -8,8 +8,6 @@ let result = howfees > 10000 ? howfees-10000+"원 초과" : "돈 관리를 잘�
 document.write(result);
 
 
-<br>
-</br>
 
 const first = Number(prompt("1분기 판매량은?"));
 const second = Number(prompt("2분기 판매량은?"));
